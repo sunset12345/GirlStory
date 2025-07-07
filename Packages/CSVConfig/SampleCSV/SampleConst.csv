@@ -1,0 +1,15 @@
+TestSByte,-1,sbyte,测试SByte
+TestByte,1,byte,测试Byte
+TestShort,-1,short,测试Short
+TestUShort,1,ushort,测试UShort
+TestInt,-222,int,测试Int
+TestUInt,222,uint,测试UInt
+TestLong,-212312,long,测试Long
+TestULong,212132,ulong,测试ULong
+TestFloat,-2.22,float,测试Float
+TestString,abcdefg,string,测试String
+TestListFloat,2.331|5.983|-927.2|573.44|376,List<float>,测试Float数组
+TestDictionaryStringInt,a:1|b:2|c:3,Dictionary<string&int>,测试String Int字典
+TestDictionaryIntFloat,1:1.1|2:2.2|3:-3.3,Dictionary<int&float>,测试Int Float字典
+TestBoolTrue,true,bool,测试Bool True
+TestBoolFalse,false,bool,测试Bool False

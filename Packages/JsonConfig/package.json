@@ -1,0 +1,14 @@
+{
+  "name": "com.gsdev.json-config",
+  "version": "1.9.5",
+  "unity": "2018.4",
+  "displayName": "Json Config",
+  "description": "json config",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "hideInEditor": false,
+  "dependencies": {
+  },
+  "type": "tool"
+}

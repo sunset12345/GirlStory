@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 37bf28f8e272e40d290d0dea1ef88151, type: 3}
+  m_Name: JsonConfigSettings
+  m_EditorClassIdentifier: 
+  _defaultSheetFolder: /_ConfigBase/Config/
+  _outputJsonFolder: /Assets/_ConfigBase/Resources/
+  _outputScriptFolder: /Assets/_ConfigBase/Scripts/
+  _headerStartRow: 4
+  _defaultIosSheetFolder: /_ConfigBase/ConfigIos/
+  _outputIosJsonFolder: /_ConfigBase/~ResIos/

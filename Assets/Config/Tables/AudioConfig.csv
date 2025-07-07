@@ -1,0 +1,4 @@
+#键值,资源,音量,播放间隔,是否初始化时加载,说明
+%id,asset,volume,interval,load,desc
+$[id:unique][id:type:string],[asset:type:class@AssetRef],[volume:type:float],[interval:type:float],[load:type:bool],[desc:type:string]
+ButtonClick,res/audios/sfx_generic_popup_open/SFX_Generic_Popup_Open,1,0.1,false,按键点击

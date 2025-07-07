@@ -1,0 +1,11 @@
+{
+  "name": "com.gsdev.userlabel",
+  "version": "1.1.0",
+  "displayName": "User Label",
+  "description": "",
+  "unity": "2018.4",
+  "keywords": [
+    "UserLabel"
+  ],
+  "type": "library"
+}

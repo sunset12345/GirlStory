@@ -1,0 +1,29 @@
+{
+  "name": "com.fqdev.best-http",
+  "version": "1.0.0",
+  "displayName": "Best HTTP",
+  "description": "Best HTTP",
+  "unity": "2018.4",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "Tools",
+    "Http",
+    "Network"
+  ],
+  "author": {
+    "name": "FQ Games",
+    "email": "george.peng@foxmail.com",
+    "url": "https://www.unity3d.com"
+  },
+  "samples": [
+    {
+      "displayName": "Sample",
+      "description": "Demo",
+      "path": "Examples"
+    }
+  ],
+  "type": "library",
+  "hideInEditor": false
+}

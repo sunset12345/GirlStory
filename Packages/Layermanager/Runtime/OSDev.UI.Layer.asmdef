@@ -1,0 +1,16 @@
+{
+    "name": "GSDev.UI.Layer",
+    "rootNamespace": "",
+    "references": [
+        "GSDev.Singleton"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

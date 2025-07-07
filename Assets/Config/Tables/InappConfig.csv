@@ -1,0 +1,11 @@
+#唯一id,名称,产品Id(google唯一),产品Id(apple唯一),product_type,价格,获得钻石数
+%id,name,google_productId,apple_productId,product_type,us_dollor,diamond_count
+$[id:unique][id:type:int],[name:type:string],[google_productId:type:string],[apple_productId:type:string],[product_type:type:int],[us_dollor:type:float],[diamond_count:type:int]
+1,1,com.hilchat.iap.099,com.hilchat.iap.099,1,0.99,10000
+2,2,com.hilchat.iap.499,com.hilchat.iap.499,1,4.99,32999
+3,3,com.hilchat.iap.899,com.hilchat.iap.899,1,8.99,61999
+4,4,com.hilchat.iap.1299,com.hilchat.iap.1299,1,12.99,117999
+5,5,com.hilchat.iap.1999,com.hilchat.iap.1999,1,19.99,161999
+6,6,com.hilchat.iap.2599,com.hilchat.iap.2599,1,24.99,253999
+7,7,com.hilchat.iap.4999,com.hilchat.iap.4999,1,49.99,489999
+8,8,com.hilchat.iap.9999,com.hilchat.iap.9999,1,99.99,1120000

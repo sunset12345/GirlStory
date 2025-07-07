@@ -1,0 +1,7 @@
+﻿#Sample B
+#序号,,事件动作（事件名:动作池id）
+%id,style,events,bools
+$[id:unique][id:type:int],[style:type:string],[events:type:Dictionary<string&int>],[bools:type:bool]
+1,标准坐姿,idle:1|random:6|shoot:3|dunk:4|noScore:5|overTake:4|tie:3|lead:3|score:3|scoreKey:4|fail:5|success:3|win:4|lose:5,true
+2,标准坐姿,idle:1|random:6|shoot:3|dunk:4|noScore:5|overTake:4|tie:3|lead:3|score:3|scoreKey:4|fail:5|success:3|win:4|lose:5,false
+3,标准坐姿,idle:1|random:6|shoot:3|dunk:4|noScore:5|overTake:4|tie:3|lead:3|score:3|scoreKey:4|fail:5|success:3|win:4|lose:5,True

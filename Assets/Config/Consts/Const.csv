@@ -1,0 +1,2 @@
+DefaultHead,ui/common/DefaultIcon,class@AssetRef,默认头像
+DefaultItem,1:900,Dictionary<int&int>,默认物品
